@@ -79,11 +79,3 @@
     padding-bottom: 0.5%;
     text-decoration-color: black;
 }
-.con_send:hover{
-    background-color: red;
-    color: white;
-    cursor: pointer;
-    font-size: 100%;
-    font-style: italic;
-    font-weight: bolder;
-}
