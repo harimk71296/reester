@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+.title{
+    font-size: 400%;
+    font-family: cursive;
+}
+.title:hover{
+    color: aquamarine;
+    cursor: wait;
+}
+.nav_header{
+    display: inline-block;
+    color: grey;
+    margin: 10px;
+}
+.nav_header:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.products{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+.box{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    display: inline-block;
+    width: 420px;
+    text-align: center;
+}
+.box:hover{
+    background-color: bisque;
+    cursor: default;
+}
+.prod{
+    padding-top: 5px;
+}
+.order{
+    margin: 10px;
+    padding: 10px;
+}
+.order:hover{
+    background-color: goldenrod;
+    color: crimson;
+    cursor: pointer;
+    font-size: 100%;
+    font-weight: bolder;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.tab_cen{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.form_input{
+    margin: 5px;
+    padding: 5px;
+}
+.con_send{
+    background-color: yellow;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    text-decoration-color: black;
+}
+.con_send:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-size: 100%;
+    font-style: italic;
+    font-weight: bolder;
+}
